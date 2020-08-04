@@ -12,7 +12,7 @@
 ### What I Use
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][VSCodeWesite]
-[<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/CS_Icon.png" />][VSCodeWesite]
+[<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/Visual_Studio_Icon.png" />][VSCodeWesite]
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
