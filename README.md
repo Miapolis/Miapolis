@@ -5,7 +5,7 @@
 [<img align="left" alt="Miapolis | Discord" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][DiscordProfile]
 [<img align="left" alt="Miapolis | Steam" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][SteamProfile]
 [<img align="left" alt="Miapolis | Xbox" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />][XboxProfile]
-> You got these? Great!
+← You got **these**? Great!
 
 <br />
 <br />
@@ -16,7 +16,7 @@
 [<img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />][VisualStudioWebsite]
 [<img align="left" alt="Unity" height="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/Unity_Rounded.png" />][UnityWebsite]
 [<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
-> Very good.
+← Very good.
 
 <br />
 
@@ -25,7 +25,7 @@
 [<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][VisualStudioWebsite]
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][VisualStudioWebsite]
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][VisualStudioWebsite]
-> C#, HTML, and JSON mostly.
+← C#, HTML, and JSON mostly.
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
