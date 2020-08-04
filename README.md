@@ -19,6 +19,8 @@
 [<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 ← Very good.
 
+<br>
+
 ---
 
 ### Languages I Mostly Use
@@ -27,6 +29,10 @@
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][VisualStudioWebsite]
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][VisualStudioWebsite]
 ← C#, HTML, and JSON mostly.
+
+---
+
+<img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true" />
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
