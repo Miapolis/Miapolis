@@ -22,7 +22,7 @@
 
 ### My Languages
 
-[<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/CS_Icon.png" />][VisualStudioWebsite]
+[<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/CS_Icon_New.jpg" />][VisualStudioWebsite]
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
