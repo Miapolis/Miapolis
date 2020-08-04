@@ -4,4 +4,4 @@
 
 ## Connections
 
-[<img align="center" alt = "Discord" width = "50px" src = "https://cnd.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+<img align="left" alt="GAme" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
