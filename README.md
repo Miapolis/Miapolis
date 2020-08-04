@@ -30,6 +30,8 @@
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][VisualStudioWebsite]
 ← C#, HTML, and JSON mostly.
 
+<br>
+
 ---
 
 <img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true" />
