@@ -7,6 +7,8 @@
 [<img align="left" alt="Miapolis | Xbox" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />][XboxProfile]
 ← You got **these**? Great!
 
+<br>
+
 ---
 
 ### Tools I Use
@@ -16,6 +18,8 @@
 [<img align="left" alt="Unity" height="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/Unity_Rounded.png" />][UnityWebsite]
 [<img align="left" alt="GitHub" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GitHub]
 ← Very good.
+
+<br>
 
 ---
 
