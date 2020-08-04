@@ -46,5 +46,3 @@
 [UnityWebsite]: https://unity.com/
 [GitHub]: https://www.github.com/
 
-<!-- raw.githubusercontent.com/username/repo-name/branch-name/path -->
-
