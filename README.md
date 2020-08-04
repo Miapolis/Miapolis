@@ -4,4 +4,6 @@
 
 ## Connections
 
-<img align="left" alt="Game | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+[<img align="left" alt="Miapolis | Discord" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />] [DiscordProfile]
+
+[DiscordProfile]: https://discord.com/users/508420859476836364
