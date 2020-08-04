@@ -46,7 +46,7 @@
 [UnityWebsite]: https://unity.com/
 [GitHub]: https://www.github.com/
 
-[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)/
+[C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
 [HTML]: https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.
 [JSON]: https://www.json.org/json-en.html
 
