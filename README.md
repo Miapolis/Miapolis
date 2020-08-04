@@ -13,9 +13,10 @@
 
 ### Tools I Use
 
-[<img align="left" alt="Unity" height="40px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/Unity_Rounded.png" />][UnityWebsite]
-[<img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][VSCodeWesite]
-[<img align="left" alt="Visual Studio" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />][VisualStudioWebsite]
+[<img align="left" alt="Unity" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />][UnityWebsite]
+[<img align="left" alt="Unity" height="34px" src="https://raw.githubusercontent.com/Miapolis/Miapolis/master/Unity_Rounded.png" />][UnityWebsite]
+[<img align="left" alt="Visual Studio Code" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />][VSCodeWesite]
+[<img align="left" alt="Visual Studio" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg" />][VisualStudioWebsite]
 
 <br />
 <br />
