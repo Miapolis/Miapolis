@@ -34,7 +34,7 @@
 
 ---
 
-<img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true" />
+<img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true&count_private=true"/>
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
