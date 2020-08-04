@@ -25,9 +25,9 @@
 
 ### Languages I Mostly Use
 
-[<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][VisualStudioWebsite]
-[<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][VisualStudioWebsite]
-[<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][VisualStudioWebsite]
+[<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][C#]
+[<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][JSON]
+[<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][HTML]
 ← C#, HTML, and JSON mostly.
 
 <br>
@@ -45,4 +45,8 @@
 [VisualStudioWebsite]: https://visualstudio.microsoft.com/vs/
 [UnityWebsite]: https://unity.com/
 [GitHub]: https://www.github.com/
+
+[C#]: "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"
+[HTML]: "https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript."
+[JSON]:"https://www.json.org/json-en.html"
 
