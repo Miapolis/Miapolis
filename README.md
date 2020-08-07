@@ -43,8 +43,8 @@
 
 ---
 
-### This README.md file is from https://www.github.com/Miapolis/Miapolis
-### If my profile was a class, that would be a constructor
+This README.md file is from https://www.github.com/Miapolis/Miapolis
+If my profile was a class, that would be a constructor
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
