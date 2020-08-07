@@ -41,6 +41,8 @@
 <br>
 <br>
 
+---
+
 ### This README.md file is from https://www.github.com/Miapolis/Miapolis
 ### If my profile was a class, that would be a constructor
 
