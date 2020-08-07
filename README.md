@@ -39,6 +39,7 @@
 <img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
 
 <br>
+<br>
 
 ### This README.md file is from https://www.github.com/Miapolis/Miapolis
 ### If my profile was a class, that would be a constructor
