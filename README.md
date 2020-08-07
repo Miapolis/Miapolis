@@ -43,7 +43,7 @@
 
 ---
 
-This README.md file is from https://www.github.com/Miapolis/Miapolis
+This README.md file is from https://www.github.com/Miapolis/Miapolis<br>
 If my profile was a class, that would be a constructor
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
