@@ -27,6 +27,7 @@
 ### Languages I Mostly Use
 
 [<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][C#]
+[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][C++]
 [<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][NODEJS]
 [<img align="left" alt="JSON" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][JSON]
 [<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][HTML]
@@ -40,14 +41,6 @@
 
 <img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
 
-<br>
-<br>
-
----
-
-This README.md file is from https://www.github.com/Miapolis/Miapolis<br>
-If my profile was a class, that would be a constructor
-
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
 [XboxProfile]: https://steamcommunity.com/profiles/76561199072450059
@@ -58,6 +51,7 @@ If my profile was a class, that would be a constructor
 [GitHub]: https://www.github.com/
 
 [C#]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C%2B%2B
 [NODEJS]: https://nodejs.org/
 [HTML]: https://en.wikipedia.org/wiki/HTML#:~:text=Hypertext%20Markup%20Language%20(HTML)%20is,scripting%20languages%20such%20as%20JavaScript.
 [JSON]: https://www.json.org/json-en.html
