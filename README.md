@@ -42,6 +42,8 @@
 <br>
 <br>
 
+---
+
 <img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
