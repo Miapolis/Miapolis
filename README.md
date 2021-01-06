@@ -37,9 +37,8 @@
 
 ---
 
-<img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000"/>
+<img align="center" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000"/>
 
-<br>
 <br>
 
 ---
