@@ -39,10 +39,10 @@
 
 <img align="left" alt="Miapolis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Miapolis&show_icons=true&hide_border=true&count_private=true&title_color=000000&icon_color=000000"/>
 
-<img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
+<br>
+<br>
 
-<br>
-<br>
+<img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
 
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
