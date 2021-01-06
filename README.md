@@ -41,6 +41,9 @@
 
 <img alt="Miapolis" align = "left" src = https://raw.githubusercontent.com/Miapolis/Miapolis/master/Miapolis.png>
 
+<br>
+<br>
+
 [DiscordProfile]: https://discord.com/users/508420859476836364
 [SteamProfile]: https://steamcommunity.com/profiles/76561199072450059
 [XboxProfile]: https://steamcommunity.com/profiles/76561199072450059
