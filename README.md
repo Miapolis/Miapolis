@@ -27,11 +27,9 @@
 ### Languages I Mostly Use
 
 [<img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/csharp.svg" />][C#]
-[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][C++]
 [<img align="left" alt="Node.js" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][NODEJS]
-[<img align="left" alt="JSON" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/json.svg" />][JSON]
-[<img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][HTML]
-← C#, Node.js, and JSON mostly.
+[<img align="left" alt="C++" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][C++]
+← C# and Node.js mostly
 
 <br>
 
